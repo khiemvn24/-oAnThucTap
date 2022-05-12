@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "84252413868",
+    "project_id": "vnkfood-c0e82",
+    "storage_bucket": "vnkfood-c0e82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84252413868:android:04a1a4e27691749ef97409",
+        "android_client_info": {
+          "package_name": "com.appdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84252413868-uveaoipberqht4s6amlv65tnfagepj20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4AJ2Nc6I65xs5R_ki2owoQifMlPdr5Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84252413868-uveaoipberqht4s6amlv65tnfagepj20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
